@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="bgApp">
+        <item name="android:background">@color/colorBg</item>
+    </style>
+    <style name="textView">
+        <item name="android:textColor">#fbfafa</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">@dimen/textPadding</item>
+        <item name="android:layout_marginTop">@dimen/textMargin</item>
+        <item name="android:textSize">@dimen/bigText</item>
+    </style>
+    <style name="imgView">
+        <item name="android:layout_marginTop">@dimen/imgMargin</item>
+        <item name="android:layout_marginBottom">@dimen/imgMargin</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="editText">
+        <item name="android:textColor">@color/textColorBtn</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">@dimen/textName</item>
+        <item name="android:layout_marginBottom">@dimen/nameMarginBtm</item>
+    </style>
+    <style name="btn">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/textColorBtn</item>
+        <item name="android:background">@color/colorBtn</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/textName</item>
+        <item name="android:layout_marginBottom">@dimen/nameMarginBtm</item>
+        <item name="android:padding">@dimen/nameMarginBtm</item>
+    </style>
+
+    <style name="cardQuestion">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">@dimen/cardQuizMargin</item>
+    </style>
+
+    <style name="questionBg">
+        <item name="android:background">@color/questionBg</item>
+    </style>
+    <style name="textQuestion">
+        <item name="android:textColor">@color/textColorBtn</item>
+        <item name="android:textSize">@dimen/textQuestion</item>
+        <item name="android:padding">@dimen/textQuestionPadding</item>
+    </style>
+    <style name="questionCtrl">
+        <item name="android:layout_marginLeft">@dimen/marginLeftQuestion</item>
+    </style>
+    <style name="radioBtn" parent="questionCtrl">
+        <item name="android:textColor">@color/textColorBtn</item>
+    </style>
+
+    <style name="btnApp" parent="btn">
+        <item name="android:layout_width">@dimen/btnAppWidth</item>
+        <item name="android:layout_height">@dimen/btnAppHeight</item>
+        <item name="android:layout_marginBottom">@dimen/cardQuizMargin</item>
+    </style>
+</resources>

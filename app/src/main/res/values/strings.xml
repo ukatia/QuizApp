@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome">Welcome to the EU Quiz!</string>
+    <string name="enterName">Enter your name</string>
+    <string name="startQuiz">start quiz</string>
+
+    <string name="question1">Question 1: \nHow many members did the European Union count when the Euro began circulation in January 2000? </string>
+    <string name="question1_1">12</string>
+    <string name="question1_2">15</string>
+    <string name="question1_3">18</string>
+    <string name="question1_4">16</string>
+
+
+    <string name="question2">Question 2: \nThe Presidency of the European Union is rotated every _ months?</string>
+    <string name="question2_1">9</string>
+    <string name="question2_2">12</string>
+    <string name="question2_3">4</string>
+    <string name="question2_4">6</string>
+
+    <string name="question3">Question 3: \nWhich of the following countries are members of the Eurozone?</string>
+    <string name="question3_1">Belgium</string>
+    <string name="question3_2">Denmark</string>
+    <string name="question3_3">Greece</string>
+    <string name="question3_4">United Kingdom</string>
+
+    <string name="question4">Question 4: \nThe EU anthem is written by which composer?</string>
+    <string name="question4_hint">Enter the name</string>
+    <string name="answer4">Beethoven</string>
+
+    <string name="question5">Question 5: \nFrench is an official language in how many EU countries?</string>
+    <string name="question5_1">1</string>
+    <string name="question5_2">2</string>
+    <string name="question5_3">3</string>
+    <string name="question5_4">4</string>
+
+    <string name="btnSubmit">Submit</string>
+    <string name="btnReset">Reset</string>
+
+    <string name="userName">Dear</string>
+    <string name="congrats">congratulations!</string>
+    <string name="result">you answered correctly %d out of 5 questions!</string>
+</resources>

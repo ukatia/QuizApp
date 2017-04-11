@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textPadding">4dp</dimen>
+    <dimen name="textMargin">8dp</dimen>
+    <dimen name="bigText">50sp</dimen>
+    <dimen name="textName">24sp</dimen>
+    <dimen name="imgMargin">24dp</dimen>
+    <dimen name="nameMarginBtm">12dp</dimen>
+    <dimen name="cardQuizMargin">16dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="textQuestion">18sp</dimen>
+    <dimen name="textQuestionPadding">20dp</dimen>
+    <dimen name="btnAppWidth">130dp</dimen>
+    <dimen name="btnAppHeight">50dp</dimen>
+    <dimen name="marginLeftQuestion">28dp</dimen>
+</resources>
